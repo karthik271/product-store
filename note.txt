@@ -1,0 +1,32 @@
+@thekarthi07
+SI NO	Name	Location
+ 	Basic spring boot topics	 
+1	Basic Spring boot concepts	https://www.youtube.com/watch?v=y8IQb4ofjDo&list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
+2	Basic hibernet concepts	JPA and Hibernate Essentials - YouTube
+3	Java 8 Concepts:	 
+ 	a. Streems	https://www.tutorialspoint.com/java8/java8_streams.htm
+ 	b. List	https://www.digitalocean.com/community/tutorials/java-list
+ 	c. collections	https://www.javatpoint.com/collections-in-java
+ 	d. filters	https://www.baeldung.com/java-stream-filter-lambda
+ 	e. for-each	Guide to the Java 8 forEach | Baeldung
+ 	f. functional interfaces	Functional Interfaces in Java 8 | Baeldung
+ 	g. streems along with filters	https://www.javaprogramto.com/2021/06/java-8-streams-filter-multiple-conditions.html
+ 	h. lambada	https://www.bing.com/search?q=streams+along+with+filter+in+java+8&FORM=AWRE
+ 	i. optional	https://www.geeksforgeeks.org/java-8-optional-class/
+ 	j. collectors	https://www.baeldung.com/java-8-collectors
+ 	 	 
+ 	 	 
+ 	Functional programming Topics:	 
+1	vavr	https://www.baeldung.com/vavr
+2	Optional	https://dzone.com/articles/using-java-optional-vs-vavr-option
+3	Either	https://www.baeldung.com/vavr-either
+4	Try	https://www.baeldung.com/vavr-try
+5	Mapper	https://www.baeldung.com/mapstruct
+6	ForEach	https://www.baeldung.com/vavr-java-streams
+7	Filter	https://www.baeldung.com/vavr-collections
+8	FlatMap	https://www.baeldung.com/java-difference-map-and-flatmap
+9	Reduce	https://www.geeksforgeeks.org/stream-reduce-java-examples/
+
+
+	JPA and Hibernate Essentials - YouTube
+ 
